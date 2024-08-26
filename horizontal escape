@@ -1,0 +1,8 @@
+# include <iostream>
+using namespace std;
+
+int main (){
+    cout << "HELLO WORLD \t";
+    cout << " i am learing c++";
+    return 0;
+}
